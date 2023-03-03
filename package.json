@@ -9,7 +9,7 @@
   "author": "Lukas Hetzenecker; Smart Contracts; TU Wien",
   "dependencies": {
     "ganache-cli": "^6.9.1",
-    "truffle": "^5.1.19",
+    "truffle": "^5.7.9",
     "truffle-assertions": "^0.9.2"
   }
 }
